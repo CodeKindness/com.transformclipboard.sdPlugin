@@ -22,7 +22,7 @@
   "Description": "Plugin allows you to transform text from clipboard.",
   "Name": "Transform Clipboard",
   "Icon": "images/actionIcon", 
-  "URL": "https://github.com/michaelminter/transformclipboard",
+  "URL": "https://github.com/CodeKindness/com.transformclipboard.sdPlugin",
   "Version": "0.1.0",
   "OS": [
     {
