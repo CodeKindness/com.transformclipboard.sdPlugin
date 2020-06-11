@@ -14,11 +14,9 @@ Also see, [Stream Deck SDK](https://developer.elgato.com/documentation/stream-de
 
 # Installation
 
-## MacOS
-
 Quit the Stream Deck application.
 
-Copy the contents of this directory to plugins folder.
+On macOS copy the contents of this directory to the Stream Deck plugins folder.
 
 ```
 cp -r ../com.transformclipboard.sdPlugin ~/Library/Application\ Support/com.elgato.StreamDeck/Plugins/
