@@ -23,7 +23,7 @@
   "Name": "Transform Clipboard",
   "Icon": "images/actionIcon", 
   "URL": "https://github.com/michaelminter/transformclipboard",
-  "Version": "0.1",
+  "Version": "0.1.0",
   "OS": [
     {
         "Platform": "mac", 
