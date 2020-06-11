@@ -1,0 +1,41 @@
+{
+  "Actions": [
+    {
+      "Icon": "images/pluginIcon", 
+      "Name": "Transform Clipboard",
+      "States": [
+        {
+          "Image": "images/actionIcon",
+          "TitleAlignment": "middle", 
+          "FontSize": "16"
+        }
+      ], 
+      "SupportedInMultiActions": false,
+      "Tooltip": "Transform...",
+      "UUID": "com.transformclipboard.action"
+    }
+  ], 
+  "SDKVersion": 2,
+  "Author": "michaelminter",
+  "CodePath": "index.html", 
+  "PropertyInspectorPath": "propertyinspector/index.html",
+  "Description": "Plugin allows you to transform text from clipboard.",
+  "Name": "Transform Clipboard",
+  "Icon": "images/actionIcon", 
+  "URL": "https://github.com/michaelminter/transformclipboard",
+  "Version": "0.1",
+  "OS": [
+    {
+        "Platform": "mac", 
+        "MinimumVersion" : "10.11"
+    },
+    {
+        "Platform": "windows", 
+        "MinimumVersion" : "10"
+    }
+  ],
+  "Software": 
+    {
+        "MinimumVersion" : "4.1"
+    }
+}
