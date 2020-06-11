@@ -14,6 +14,14 @@ Also see, [Stream Deck SDK](https://developer.elgato.com/documentation/stream-de
 
 # Installation
 
+In the [Release](./Release/) folder, you can find the file `com.transformclipboard.streamDeckPlugin`. If you double-click this file on your machine, Stream Deck will install the plugin.
+
+# Development
+
+You can use vanilla Javascript (ES2015, ES6 and even ES7 is okay to use) or you can even include/import a library of your choice (e.g. jQuery, VueJS, etc...).
+
+## Installation
+
 Quit the Stream Deck application.
 
 On macOS copy the contents of this directory to the Stream Deck plugins folder.
@@ -29,10 +37,6 @@ On Windows the plugins directory can be found here:
 ```
 
 If you now launch the Stream Deck application, this plugin should appear in the `Custom` category in the Actions list.
-
-# Development
-
-You can use vanilla Javascript (ES2015, ES6 and even ES7 is okay to use) or you can even include/import a library of your choice (e.g. jQuery, VueJS, etc...).
 
 ## Debugging
 
